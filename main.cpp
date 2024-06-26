@@ -8,6 +8,6 @@ int main()
     
 
     while (true) {
-        LD1 = B1_USER;
+        LD2 = B1_USER;
     }
 }
